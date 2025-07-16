@@ -39,3 +39,7 @@ This project demonstrates how to implement a precise millisecond delay function 
 - **Auto Reload(ARR)** make it as 1000 to get exact 1ms delay  → 1 ms per tick.
 - The **counter (CNT)** is cleared and incremented by the timer
 - Monitoring UIF Flag in Timer (Polling method).
+
+
+## 👤 Author
+Teja – Embedded Firmware Developer 
